@@ -1,0 +1,244 @@
+{
+"1001": {
+    "cedula": "1012345678",
+    "nombre": "Juan",
+    "apellido": "Pérez",
+    "direccion": "Calle 123, Barrio Centro",
+    "acudiente": "Ana Pérez",
+    "telefono": "3001234567"
+},
+"1002": {
+    "cedula": "1022345678",
+    "nombre": "María",
+    "apellido": "López",
+    "direccion": "Carrera 45, Barrio Norte",
+    "acudiente": "Carlos López",
+    "telefono": "3002345678"
+},
+"1003": {
+    "cedula": "1032345678",
+    "nombre": "Pedro",
+    "apellido": "Gómez",
+    "direccion": "Avenida 56, Barrio Sur",
+    "acudiente": "Laura Gómez",
+    "telefono": "3003456789"
+},
+"1004": {
+    "cedula": "1042345678",
+    "nombre": "Luisa",
+    "apellido": "Martínez",
+    "direccion": "Calle 78, Barrio Este",
+    "acudiente": "Fernando Martínez",
+    "telefono": "3004567890"
+},
+"1005": {
+    "cedula": "1052345678",
+    "nombre": "Carlos",
+    "apellido": "Rodríguez",
+    "direccion": "Calle 90, Barrio Oeste",
+    "acudiente": "Sofia Rodríguez",
+    "telefono": "3005678901"
+},
+"1006": {
+    "cedula": "1062345678",
+    "nombre": "Ana",
+    "apellido": "Fernández",
+    "direccion": "Carrera 67, Barrio Central",
+    "acudiente": "Miguel Fernández",
+    "telefono": "3006789012"
+},
+"1007": {
+    "cedula": "1072345678",
+    "nombre": "Javier",
+    "apellido": "Díaz",
+    "direccion": "Calle 34, Barrio Los Alpes",
+    "acudiente": "Teresa Díaz",
+    "telefono": "3007890123"
+},
+"1008": {
+    "cedula": "1082345678",
+    "nombre": "Sandra",
+    "apellido": "Gutiérrez",
+    "direccion": "Avenida 89, Barrio Primavera",
+    "acudiente": "José Gutiérrez",
+    "telefono": "3008901234"
+},
+"1009": {
+    "cedula": "1092345678",
+    "nombre": "Andrés",
+    "apellido": "Vega",
+    "direccion": "Calle 45, Barrio El Sol",
+    "acudiente": "Patricia Vega",
+    "telefono": "3009012345"
+},
+"1010": {
+    "cedula": "1102345678",
+    "nombre": "Carolina",
+    "apellido": "Morales",
+    "direccion": "Carrera 23, Barrio La Loma",
+    "acudiente": "Ricardo Morales",
+    "telefono": "3000123456"
+},
+"1011": {
+    "cedula": "1112345678",
+    "nombre": "Raúl",
+    "apellido": "Jiménez",
+    "direccion": "Avenida 101, Barrio El Valle",
+    "acudiente": "Silvia Jiménez",
+    "telefono": "3001234678"
+},
+"1012": {
+    "cedula": "1122345678",
+    "nombre": "Paula",
+    "apellido": "Sánchez",
+    "direccion": "Calle 56, Barrio Santa Fe",
+    "acudiente": "Luis Sánchez",
+    "telefono": "3002345789"
+},
+"1013": {
+    "cedula": "1132345678",
+    "nombre": "Felipe",
+    "apellido": "Torres",
+    "direccion": "Carrera 34, Barrio La Esperanza",
+    "acudiente": "Clara Torres",
+    "telefono": "3003456890"
+},
+"1014": {
+    "cedula": "1142345678",
+    "nombre": "Jessica",
+    "apellido": "Ramírez",
+    "direccion": "Calle 123, Barrio Altos",
+    "acudiente": "José Ramírez",
+    "telefono": "3004567901"
+},
+"1015": {
+    "cedula": "1152345678",
+    "nombre": "Fernando",
+    "apellido": "González",
+    "direccion": "Avenida 78, Barrio del Río",
+    "acudiente": "Marta González",
+    "telefono": "3005678012"
+},
+"1016": {
+    "cedula": "1162345678",
+    "nombre": "Isabel",
+    "apellido": "Hernández",
+    "direccion": "Carrera 90, Barrio Las Palmas",
+    "acudiente": "Alfredo Hernández",
+    "telefono": "3006789123"
+},
+"1017": {
+    "cedula": "1172345678",
+    "nombre": "Antonio",
+    "apellido": "Jiménez",
+    "direccion": "Calle 87, Barrio Nuevo",
+    "acudiente": "Gloria Jiménez",
+    "telefono": "3007890234"
+},
+"1018": {
+    "cedula": "1182345678",
+    "nombre": "Natalia",
+    "apellido": "Paredes",
+    "direccion": "Calle 34, Barrio Mariposas",
+    "acudiente": "Oscar Paredes",
+    "telefono": "3008901345"
+},
+"1019": {
+    "cedula": "1192345678",
+    "nombre": "Luis",
+    "apellido": "Hernández",
+    "direccion": "Carrera 78, Barrio Pinos",
+    "acudiente": "Carmen Hernández",
+    "telefono": "3009012456"
+},
+"1020": {
+    "cedula": "1202345678",
+    "nombre": "Raquel",
+    "apellido": "Vargas",
+    "direccion": "Avenida 102, Barrio Los Olivos",
+    "acudiente": "Miguel Vargas",
+    "telefono": "3000123567"
+},
+"1021": {
+    "cedula": "1212345678",
+    "nombre": "Gabriel",
+    "apellido": "Castillo",
+    "direccion": "Calle 25, Barrio Los Árboles",
+    "acudiente": "Margarita Castillo",
+    "telefono": "3001234678"
+},
+"1022": {
+    "cedula": "1222345678",
+    "nombre": "Sofía",
+    "apellido": "Reyes",
+    "direccion": "Carrera 50, Barrio El Parque",
+    "acudiente": "Antonio Reyes",
+    "telefono": "3002345789"
+},
+"1023": {
+    "cedula": "1232345678",
+    "nombre": "Marta",
+    "apellido": "Díaz",
+    "direccion": "Avenida 12, Barrio Los Cedros",
+    "acudiente": "Rosa Díaz",
+    "telefono": "3003456890"
+},
+"1024": {
+    "cedula": "1242345678",
+    "nombre": "Enrique",
+    "apellido": "García",
+    "direccion": "Calle 67, Barrio San Pedro",
+    "acudiente": "Carlos García",
+    "telefono": "3004567901"
+},
+"1025": {
+    "cedula": "1252345678",
+    "nombre": "Lucía",
+    "apellido": "Álvarez",
+    "direccion": "Carrera 34, Barrio La Aurora",
+    "acudiente": "Adriana Álvarez",
+    "telefono": "3005678012"
+},
+"1026": {
+    "cedula": "1262345678",
+    "nombre": "Ricardo",
+    "apellido": "Martínez",
+    "direccion": "Calle 91, Barrio Valle Hermoso",
+    "acudiente": "José Martínez",
+    "telefono": "3006789123"
+},
+"1027": {
+    "cedula": "1272345678",
+    "nombre": "Carmen",
+    "apellido": "Soto",
+    "direccion": "Avenida 45, Barrio El Faro",
+    "acudiente": "Teresa Soto",
+    "telefono": "3007890234"
+},
+"1028": {
+    "cedula": "1282345678",
+    "nombre": "José",
+    "apellido": "Pérez",
+    "direccion": "Calle 34, Barrio Los Naranjos",
+    "acudiente": "Claudia Pérez",
+    "telefono": "3008901345"
+},
+"1029": {
+    "cedula": "1292345678",
+    "nombre": "Victoria",
+    "apellido": "Moreno",
+    "direccion": "Carrera 67, Barrio El Castillo",
+    "acudiente": "Eduardo Moreno",
+    "telefono": "3009012456"
+},
+"1030": {
+    "cedula": "1302345678",
+    "nombre": "Pedro",
+    "apellido": "Vega",
+    "direccion": "Avenida 123, Barrio San Juan",
+    "acudiente": "María Vega",
+    "telefono": "3000123567"
+}
+
+
+}
