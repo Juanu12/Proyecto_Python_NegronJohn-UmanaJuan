@@ -1,0 +1,38 @@
+{
+"Trainers":[
+{"Nombre": "Pedro",
+"Horarios": "fulltime",
+"Ruta": "",
+"Cargo": "Trainer",
+"Estado": ""
+},
+{"Nombre": "Johlver",
+"Horarios": "fulltime",
+"Ruta": "",
+"cargo": "trainer",
+"Estado": ""
+},
+{"Nombre": "Miguel",
+"Horarios": "full time",
+"Ruta": "",
+"cargo": "trainer",
+"Estado": ""
+},
+{"Nombre": "Juan Carlos",
+"Horarios": "6-2",
+"Ruta": "",
+"Estado": "Trainer"
+},
+{"Nombre": "Carlos",
+"Horarios": "",
+"Ruta": "",
+"Cargo": "Trainer",
+"Estado": "Libre"
+}
+
+
+]
+
+
+    
+}

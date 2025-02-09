@@ -1,0 +1,37 @@
+{
+  
+    "Aula":{
+ 
+    "Apolo":{
+        "Fechainicio": "21 enero",
+        "Fechafin": "21 octubre",
+        "Trainer":"",
+        "Ruta":""
+
+    },
+    
+    "Artemis":{
+        "Fechainicio":"4 febrero", 
+        "Fechafin": "21 octubre",
+        "Trainer":"",
+        "Ruta":""
+
+    },  
+    "Spotnik": {
+        "Fechainicio":"4 febrero", 
+        "Fechafin": "21 octubre",
+        "Trainer":"",
+        "Ruta":""
+
+
+
+    }
+    
+  
+
+
+
+
+
+}
+}
