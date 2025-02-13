@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "nombre": "M1",
+        "trainer": "1234",
+        "jornada": "2",
+        "ruta": "1",
+        "salon": "1",
+        "cantidad": 0,
+        "graduado": false
+    },
+    {
+        "id":2,
+        "nombre": "J2",
+        "trainer": "1234",
+        "jornada": "1",
+        "ruta": "2",
+        "salon": "1",
+        "cantidad": 0,
+        "graduado": false
+    }
+]

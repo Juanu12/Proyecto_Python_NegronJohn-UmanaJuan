@@ -1,0 +1,195 @@
+[
+    {
+        "cedula": "1234567894",
+        "nombre": "Nicol",
+        "apellido": "Ordo\u00c3\u00b1ez",
+        "direccion": "Calle",
+        "acudiente": "Primo",
+        "telefono": "3145",
+        "telefonoFijo": "60123",
+        "estado": {
+            "En proceso": false,
+            "Inscrito": false,
+            "Aprobado": true,
+            "Denegado": false,
+            "Cursando": true,
+            "Graduado": false,
+            "Expulsado": false,
+            "Retirado": false
+        },
+        "notas": {
+            "modulo1": 100.0,
+            "modulo2": 0.0,
+            "modulo3": 0.0,
+            "modulo4": 0.0,
+            "modulo5": 0.0
+        },
+        "riesgo": true,
+        "grupo": "M1"
+    },
+    {
+        "cedula": "1234567896",
+        "nombre": "Sebas",
+        "apellido": "Betancourt",
+        "direccion": "Calle",
+        "acudiente": "Primo",
+        "telefono": "3145",
+        "telefonoFijo": "60123",
+        "estado": {
+            "En proceso": false,
+            "Inscrito": true,
+            "Aprobado": false,
+            "Denegado": false,
+            "Cursando": true,
+            "Graduado": false,
+            "Expulsado": false,
+            "Retirado": true
+        },
+        "notas": {
+            "modulo1": 48.3,
+            "modulo2": 47.0,
+            "modulo3": 38.7,
+            "modulo4": 0.0,
+            "modulo5": 0.0
+        },
+        "riesgo": true,
+        "grupo": "A1"
+    },
+    {
+        "cedula": "1097492717",
+        "nombre": "Juan",
+        "apellido": "Tinoco",
+        "direccion": "Carrera 23",
+        "acudiente": "Juan carlos",
+        "telefono": "3008780899",
+        "telefonoFijo": "607",
+        "estado": {
+            "En proceso": true,
+            "Inscrito": false,
+            "Aprobado": false,
+            "Cursando": false,
+            "Graduado": false,
+            "Expulsado": false,
+            "Retirado": true
+        },
+        "notas": {
+            "modulo1": 0,
+            "modulo2": 0,
+            "modulo3": 0,
+            "modulo4": 0,
+            "modulo5": 0
+        },
+        "riesgo": false,
+        "grupo": "0"
+    },
+    {
+        "cedula": "1",
+        "nombre": "Juan",
+        "apellido": "Garson",
+        "direccion": "123",
+        "acudiente": "Pedro",
+        "telefono": "123",
+        "telefonoFijo": "123",
+        "estado": {
+            "En proceso": true,
+            "Inscrito": false,
+            "Aprobado": false,
+            "Cursando": false,
+            "Graduado": false,
+            "Expulsado": false,
+            "Retirado": false
+        },
+        "notas": {
+            "modulo1": 0,
+            "modulo2": 0,
+            "modulo3": 0,
+            "modulo4": 0,
+            "modulo5": 0
+        },
+        "riesgo": false,
+        "grupo": "0"
+    },
+    {
+        "cedula": "2",
+        "nombre": "Jose",
+        "apellido": "Vergara",
+        "direccion": "45",
+        "acudiente": "Diego",
+        "telefono": "123",
+        "telefonoFijo": "123",
+        "estado": {
+            "En proceso": true,
+            "Inscrito": false,
+            "Aprobado": false,
+            "Cursando": false,
+            "Graduado": false,
+            "Expulsado": false,
+            "Retirado": true
+        },
+        "notas": {
+            "modulo1": 0,
+            "modulo2": 0,
+            "modulo3": 0,
+            "modulo4": 0,
+            "modulo5": 0
+        },
+        "riesgo": false,
+        "grupo": "0"
+    },
+    {
+        "cedula": "1097492718",
+        "nombre": "Juan ",
+        "apellido": "Perez",
+        "direccion": "312",
+        "acudiente": "Juan",
+        "telefono": "123",
+        "telefonoFijo": "123",
+        "estado": {
+            "En proceso": true,
+            "Inscrito": false,
+            "Aprobado": false,
+            "Denegado": false,
+            "Cursando": false,
+            "Graduado": false,
+            "Expulsado": false,
+            "Retirado": false
+        },
+        "notas": {
+            "modulo1": 0.0,
+            "modulo2": 0.0,
+            "modulo3": 0.0,
+            "modulo4": 0.0,
+            "modulo5": 0.0
+        },
+        "riesgo": false,
+        "grupo": ""
+    },
+    {
+        "cedula": "1234567894",
+        "nombre": "Nicol",
+        "apellido": "Ordo\u00c3\u00b1ez",
+        "direccion": "Calle",
+        "acudiente": "Primo",
+        "telefono": "3145",
+        "telefonoFijo": "60123",
+        "estado": {
+            "En proceso": false,
+            "Inscrito": false,
+            "Aprobado": true,
+            "Denegado": false,
+            "Cursando": true,
+            "Graduado": false,
+            "Expulsado": false,
+            "Retirado": false
+        },
+        "notas": {
+            "modulo1": 1e+27,
+            "modulo2": 0.0,
+            "modulo3": 0.0,
+            "modulo4": 0.0,
+            "modulo5": 0.0
+        },
+        "riesgo": true,
+        "grupo": "M1"
+    }
+]

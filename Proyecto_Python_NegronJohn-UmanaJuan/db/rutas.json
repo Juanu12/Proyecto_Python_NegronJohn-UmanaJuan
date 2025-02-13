@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "ruta": "NodeJS",
+        "modulo1": "Fundamentos de programación",
+        "modulo2": "Programacion Web",
+        "modulo3": "Programacion Formal",
+        "modulo4": "Base de datos",
+        "modulo5": "Backend"
+        
+    },
+    {
+        "id":2,
+        "ruta": "Java",
+        "modulo1": "Fundamentos de programación",
+        "modulo2": "Programacion Web",
+        "modulo3": "Programacion Formal",
+        "modulo4": "Base de datos",
+        "modulo5": "Backend"
+    }
+]
+    

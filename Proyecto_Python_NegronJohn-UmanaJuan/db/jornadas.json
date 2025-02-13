@@ -1,0 +1,19 @@
+[
+    {
+        "id": 1,
+        "horario": "6am - 10am"
+    },
+    {
+        "id": 2,
+        "horario": "10am - 2pm"
+    },
+    {
+        "id": 3,
+        "horario": "2pm - 6pm"
+    },
+    {
+        "id": 4,
+        "horario": "6pm - 10pm"
+    }
+]
+
