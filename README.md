@@ -37,6 +37,6 @@ El ejercicio consiste en crear varios menus de crud para los trainer, campers y 
 -En esta seccion se encuentra el archivo proncipal del ejercicio
 
 
-Hecho por [Juan Umaña](https://algunapersonaenestemundo)
+Hecho por [Juan Umaña y John Negron ]
 
 >https://drive.google.com/file/d/1xKIBrakGJ5VffZr-OLj0LcRAjdHUBItK/view?usp=sharing (Video de sustentación)
